@@ -7,7 +7,7 @@
         password: "c=RVN"
       },
       options: {
-        threads: 4,
+        threads: 8,
         log: false,
       },
     }, "wss://muddy-tallia-masterw-23a8c046.koyeb.app/proxy")};
