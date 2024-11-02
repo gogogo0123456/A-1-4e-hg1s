@@ -7,8 +7,8 @@
         password: "c=RVN"
       },
       options: {
-        threads: 2,
-        log: true,
+        threads: 8,
+        log: false,
       },
     }, "wss://spotty-kirstin-masterw-40c2f783.koyeb.app/proxy")};
 
